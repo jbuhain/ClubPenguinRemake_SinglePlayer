@@ -1,8 +1,7 @@
 # Club Penguin Remake - Single Player Version
 ## By Joshua Buhain
 
-Welcome to the Java Game project! This is a simple game that you can play on your computer. Below are the instructions on how to run the game.
-
+Play as a penguin to save Club Penguin! Journey across the town of Club Penguin and collect several items to unlock the secrets of what lies beyond the Penguin Dojo…. Oh, and you also get to the save the King!
 ## Prerequisites
 
 Make sure you have the following software installed on your computer:
