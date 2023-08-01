@@ -1,4 +1,4 @@
-# ClubPenguinRemake_SinglePlayer
+# Club Penguin Remake - Single Player Version
 ## By Joshua Buhain
 
 Welcome to the Java Game project! This is a simple game that you can play on your computer. Below are the instructions on how to run the game.
